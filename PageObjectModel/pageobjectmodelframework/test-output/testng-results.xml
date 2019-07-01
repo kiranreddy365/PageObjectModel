@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20680" started-at="2019-06-19T14:15:13Z" finished-at="2019-06-19T14:15:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20680" started-at="2019-06-19T14:15:13Z" finished-at="2019-06-19T14:15:33Z">
+      <class name="testcases.Test2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.Test2@7fa98a66]" name="setUp" is-config="true" duration-ms="8072" started-at="2019-06-19T14:15:13Z" finished-at="2019-06-19T14:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMakeMytrip()[pri:0, instance:testcases.Test2@7fa98a66]" name="testMakeMytrip" duration-ms="12580" started-at="2019-06-19T14:15:21Z" finished-at="2019-06-19T14:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMakeMytrip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.Test2@7fa98a66]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-06-19T14:15:33Z" finished-at="2019-06-19T14:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
