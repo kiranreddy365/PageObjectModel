@@ -31,7 +31,6 @@ public class Guru99TestCase1 extends BaseClass
 {
 
 	UtilMethods utilMethods=new UtilMethods();
-	//
 	CommonMethod cm=new CommonMethod();
 	Guru99LoginPage guru99LoginPage=new Guru99LoginPage();
 	Guru99HomePage guru99Homepage=new Guru99HomePage();
