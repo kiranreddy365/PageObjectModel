@@ -8,7 +8,7 @@ public class CheckGitCommit {
 	public void test1()
 	{
 		System.out.println("In Test1.");
-		//
+		//just changes
 	}
 	
 	@Test
